@@ -1,0 +1,24 @@
+
+body {
+    
+    background-color: seagreen;
+
+}
+
+input {
+    color:Red;
+
+}
+
+label {
+
+    color:seashell;
+}
+
+.CambioColor{
+
+    color:rgb(112, 9, 112);
+
+}
+
+

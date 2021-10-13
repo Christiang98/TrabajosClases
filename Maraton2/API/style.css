@@ -1,0 +1,12 @@
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+  background-color: #587792;
+  padding: 10px;
+  color: white;
+  border: none;
+  border-radius: 5%;
+}
+button:hover{
+    background-color: darkcyan;
+}

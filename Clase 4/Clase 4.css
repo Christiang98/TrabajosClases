@@ -1,0 +1,10 @@
+.Modificar{
+          width: 100%;
+          display: flex;
+
+}
+
+button{
+    padding:10px;
+    width:100%;
+}
